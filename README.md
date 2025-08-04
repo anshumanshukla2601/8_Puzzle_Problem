@@ -1,1 +1,1 @@
-# AI_Lab
+# 8_Puzzle_Problem
